@@ -1,3 +1,18 @@
 [submodule "W04H01/pgdp2324w04h01-go69ziq"]
 	path = W04H01/pgdp2324w04h01-go69ziq
 	url = https://go69ziq:BBDC-MTg5MjMyNjI4MzYwOpNDC5vBLwuvBToFU9x51+zdHsAK@bitbucket.ase.in.tum.de/scm/PGDP2324W04H01/pgdp2324w04h01-go69ziq.git
+[submodule "W03H01/pgdp2324w03h01-practice-go69ziq"]
+	path = W03H01/pgdp2324w03h01-practice-go69ziq
+	url = https://go69ziq:BBDC-MTg5MjMyNjI4MzYwOpNDC5vBLwuvBToFU9x51+zdHsAK@bitbucket.ase.in.tum.de/scm/PGDP2324W03H01/pgdp2324w03h01-practice-go69ziq.git
+[submodule "pruefung-1/pgdp2324e03-go69ziq"]
+	path = pruefung-1/pgdp2324e03-go69ziq
+	url = https://go69ziq:BBDC-MTg5MjMyNjI4MzYwOpNDC5vBLwuvBToFU9x51+zdHsAK@bitbucket.ase.in.tum.de/scm/PGDP2324E03/pgdp2324e03-go69ziq.git
+[submodule "pruefung-1/pgdp2324e01-go69ziq"]
+	path = pruefung-1/pgdp2324e01-go69ziq
+	url = https://go69ziq:BBDC-MTg5MjMyNjI4MzYwOpNDC5vBLwuvBToFU9x51+zdHsAK@bitbucket.ase.in.tum.de/scm/PGDP2324E01/pgdp2324e01-go69ziq.git
+[submodule "pruefung-1/pgdp2324e02-go69ziq"]
+	path = pruefung-1/pgdp2324e02-go69ziq
+	url = https://go69ziq:BBDC-MTg5MjMyNjI4MzYwOpNDC5vBLwuvBToFU9x51+zdHsAK@bitbucket.ase.in.tum.de/scm/PGDP2324E02/pgdp2324e02-go69ziq.git
+[submodule "W04H02/pgdp2324w04p04-go69ziq"]
+	path = W04H02/pgdp2324w04p04-go69ziq
+	url = https://go69ziq:BBDC-MTg5MjMyNjI4MzYwOpNDC5vBLwuvBToFU9x51+zdHsAK@bitbucket.ase.in.tum.de/scm/PGDP2324W04P04/pgdp2324w04p04-go69ziq.git
