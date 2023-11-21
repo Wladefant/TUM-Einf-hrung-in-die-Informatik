@@ -16,3 +16,6 @@
 [submodule "W04H02/pgdp2324w04p04-go69ziq"]
 	path = W04H02/pgdp2324w04p04-go69ziq
 	url = https://go69ziq:BBDC-MTg5MjMyNjI4MzYwOpNDC5vBLwuvBToFU9x51+zdHsAK@bitbucket.ase.in.tum.de/scm/PGDP2324W04P04/pgdp2324w04p04-go69ziq.git
+[submodule "W05H01/pgdp2324w05h01g-go69ziq"]
+	path = W05H01/pgdp2324w05h01g-go69ziq
+	url = https://go69ziq:BBDC-MTg5MjMyNjI4MzYwOpNDC5vBLwuvBToFU9x51+zdHsAK@bitbucket.ase.in.tum.de/scm/PGDP2324W05H01G/pgdp2324w05h01g-go69ziq.git
